@@ -23,9 +23,19 @@ jobs:
           docker.io
           registry-1.docker.io
           registry.hub.docker.com
+          https://mirror.ccs.tencentyun.com
+          https://reg-mirror.qiniu.com
+          https://registry.docker-cn.com
+          http://mirrors.163.com
+          https://mirrors.tuna.tsinghua.edu.cn
           mirror.baidubce.com
           hub-mirror.c.163.com
           docker.mirrors.ustc.edu.cn
+          http://mirrors.ustc.edu.cn
+          https://mirrors.ustc.edu.cn
+          http://mirrors.neusoft.edu.cn
+          https://mirrors.nju.edu.cn
+          http://mirror.neu.edu.cn
           mirror.gcr.io
           dockerproxy.com
           $ALIYUN_MIRROR
